@@ -6,13 +6,13 @@ By keeping your resume concise, it gives a preview of what you can do without gi
 
 [Here is the template to get your started](https://docs.google.com/presentation/d/1qrBtyM3HJPZa3S4Xa4lVcCZRKjXGtABDVJFp5f9q998/edit#slide=id.p)
 
-1. Click on the above link :)
+- Click on the above link :)
 
-2. Make a copy of the doc
+- Make a copy of the doc
 
-3. We have two upcoming lessons that will address how to build the the two primary portions of your resume -- your technical and work experience. READ THESE LESSONS BEFORE STARTING TO FILL IN YOUR OWN DATA.
+- We have two upcoming lessons that will address how to build the the two primary portions of your resume -- your technical and work experience. READ THESE LESSONS BEFORE STARTING TO FILL IN YOUR OWN DATA.
 
-4. Once all of your data is filled in (and you’ve proofread it at least 3x), upload it to your Learn profile so that you -- and the Placements team, where applicable -- can share it. The url will be learn.co/yourusername/resume. Directions for uploading your resume:
+- Once all of your data is filled in (and you’ve proofread it at least 3x), upload it to your Learn profile so that you -- and the Placements team, where applicable -- can share it. The url will be learn.co/yourusername/resume. Directions for uploading your resume:
 
   -  Download a PDF of the Google doc of your completed resume
   
