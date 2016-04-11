@@ -24,8 +24,6 @@ By keeping your resume concise, it gives a preview of what you can do without gi
 
 ## Key Things to Keep in Mind
 
-**IN YOUR HEADING**
-
 **Email addresses:** should be @gmail.com @me.com or @customdomain; no AOL, Hotmail or Yahoo email accounts because employers may view users with those accounts as out-of-touch or not tech savvy.
 
 Providing your home address is no longer necessary in a resume. No one is going to mail anything to your home.  Especially if, for example, you’re living in Chicago and thinking of relocating to San Diego, best not to tip off a recruiter that you aren’t local by including your Chicago address. Your phone number and email are the primary ways employers are going to contact you.
