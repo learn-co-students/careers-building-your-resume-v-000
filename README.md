@@ -30,4 +30,8 @@ By keeping your resume concise, it gives a preview of what you can do without gi
 
 Providing your home address is no longer necessary in a resume. No one is going to mail anything to your home.  Especially if, for example, you’re living in Chicago and thinking of relocating to San Diego, best not to tip off a recruiter that you aren’t local by including your Chicago address. Your phone number and email are the primary ways employers are going to contact you.
 
+## Next Steps
+
+In the final lesson of this unit, you will be submitting your version of this resume template with all of your info. For now, read the upcoming lessons and follow all the best practices that are presented. 
+
 <p data-visibility='hidden'>View <a href='https://learn.co/lessons/careers-building-your-resume'>Careers Building Your Resume </a> on Learn.co and start learning to code for free.</p>
