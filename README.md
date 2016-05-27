@@ -12,7 +12,7 @@ By keeping your resume concise, it gives a preview of what you can do without gi
 
 - We have two upcoming lessons that will address how to build the the two primary portions of your resume -- your technical and work experience. READ THESE LESSONS BEFORE STARTING TO FILL IN YOUR OWN DATA.
 
-- Once all of your data is filled in (and you’ve proofread it at least 3x!), upload it to your Learn profile. The url will be learn.co/yourusername/resume. Directions for uploading your resume:
+- Once all of your data is filled in (and you and your coached have reviewed it multiple times), upload it to your Learn profile. The url will be learn.co/yourusername/resume. Directions for uploading your resume:
 
   - Download a PDF of the Google doc of your completed resume
   
@@ -30,6 +30,6 @@ Providing your home address is no longer necessary in a resume. No one is going 
 
 ## Next Steps
 
-In the final lesson of this unit, you will be submitting your version of this resume template with all of your info. For now, read the upcoming lessons and follow all the best practices that are presented. 
+Read the upcoming lessons on the Technical and Work Experience sections of your resume so you can prepare to write your resume draft. 
 
 <p data-visibility='hidden'>View <a href='https://learn.co/lessons/careers-building-your-resume'>Careers Building Your Resume </a> on Learn.co and start learning to code for free.</p>
