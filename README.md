@@ -12,9 +12,9 @@ By keeping your resume concise, it gives a preview of what you can do without gi
 
 - We have two upcoming lessons that will address how to build the the two primary portions of your resume -- your technical and work experience. READ THESE LESSONS BEFORE STARTING TO FILL IN YOUR OWN DATA.
 
-- Once all of your data is filled in (and you’ve proofread it at least 3x), upload it to your Learn profile so that you -- and the Placements team, where applicable -- can share it. The url will be learn.co/yourusername/resume. Directions for uploading your resume:
+- Once all of your data is filled in (and you’ve proofread it at least 3x!), upload it to your Learn profile. The url will be learn.co/yourusername/resume. Directions for uploading your resume:
 
-  -  Download a PDF of the Google doc of your completed resume
+  - Download a PDF of the Google doc of your completed resume
   
   - On your Learn profile page, click "edit profile"
   
