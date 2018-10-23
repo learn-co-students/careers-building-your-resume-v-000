@@ -12,8 +12,7 @@ By keeping your resume concise, it gives a preview of what you can do without gi
 
 - Make a copy of the doc; and share your Career Coach on it, giving them edit access.
 
-- We have two upcoming lessons that will address how to build the two primary portions of your resume -- your technical projects and work/education experience. 
-  - READ THESE LESSONS BEFORE STARTING TO FILL IN YOUR OWN DATA.
+- We have two upcoming lessons that will address how to build the two primary portions of your resume -- your technical projects and work/education experience. *READ THESE LESSONS BEFORE STARTING TO FILL IN YOUR OWN DATA.*
 
 - Once all of your data is filled in (and you and your coach have reviewed it multiple times), upload it to your Learn profile. The url will be learn.co/yourusername/resume. 
  
