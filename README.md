@@ -6,9 +6,15 @@ By keeping your resume concise, it gives a preview of what you can do without gi
 
 ## Getting Started on Your New Resume
 
-[Here is the template to get you started](https://docs.google.com/presentation/d/1qrBtyM3HJPZa3S4Xa4lVcCZRKjXGtABDVJFp5f9q998/edit#slide=id.p)
+**Resume Template**
 
-- Click on the above link :)
+Below are templates to get you started:
+
+[Software Engineering](https://docs.google.com/presentation/d/1qrBtyM3HJPZa3S4Xa4lVcCZRKjXGtABDVJFp5f9q998/edit#slide=id.p)
+
+[Data Science](https://docs.google.com/presentation/d/19L_x4j1w-hM4R-w_TYvr0ZWp-yDFR7LmEXsA5r5hFL8/edit#slide=id.p)
+
+- Click on the respective link above based on your Flatiron program of study :)
 
 - Make a copy of the doc; and share your Career Coach on it, giving them edit access.
 
