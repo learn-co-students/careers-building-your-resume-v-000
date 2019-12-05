@@ -10,9 +10,9 @@ By keeping your resume concise, it gives a preview of what you can do without gi
 
 Below are templates to get you started:
 
-[Software Engineering](https://docs.google.com/presentation/d/1qrBtyM3HJPZa3S4Xa4lVcCZRKjXGtABDVJFp5f9q998/edit#slide=id.p)
+[Software Engineering](https://docs.google.com/document/d/1DtUh2KYcyGEW_LtXaZka_I4pD8j0pa5vl46yZXNXv_A/edit?usp=sharing)
 
-[Data Science](https://docs.google.com/presentation/d/19L_x4j1w-hM4R-w_TYvr0ZWp-yDFR7LmEXsA5r5hFL8/edit#slide=id.p)
+[Data Science](https://docs.google.com/document/d/1bU2ztZzM59vypaUlLeH7CLmnfPtNSL6hHtApbmHNmkk/edit?usp=sharing)
 
 - Click on the respective link above based on your Flatiron program of study :)
 
