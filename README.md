@@ -22,7 +22,7 @@ Below are templates to get you started:
 
 - Once all of your data is filled in (and you and your coach have reviewed it multiple times), upload it to your Learn profile. The url will be learn.co/yourusername/resume. 
  
- - Directions for uploading your resume:
+- Directions for uploading your resume:
     - Download a PDF of the Google doc of your completed resume
  
     - On your Learn profile page, click "edit profile"
@@ -30,12 +30,34 @@ Below are templates to get you started:
     - Scroll down in the pop up box and click "upload resume"
    
     - Upload your PDF and save!
+    
+    
+NOTE: If you do not use the template linked above, please make sure the format of the resume follows the instructions below:
+
+  - Keep resume to 1 page
+  
+  - Use legible font size (10 to 12 font)
+  
+  - Watch your margin size (between .5-1 inch)
+  
+  - Use Italics, CAPITALS, Bold, and Border lines for emphasis
+  
+  - Be consistent in layout and content
+  
+  - Use short phrases and sentences with bullet points
+
 
 ## Key Things to Keep in Mind
 
 **Email addresses:** should be @gmail.com @me.com or @customdomain; no AOL, Hotmail or Yahoo email accounts because employers may view users with those accounts as out-of-touch or not tech savvy.
 
-Providing your home address is no longer necessary in a resume. No one is going to mail anything to your home. Especially if, for example, you’re living in Chicago and thinking of relocating to San Diego, it’s best not to tip off a recruiter that you aren’t local by including your Chicago address. Your phone number and email are the primary ways employers are going to contact you.
+Providing your full address is no longer necessary in a resume. Recruiters still expect to see city, state and zip-code, especially if they are taking into account commute time when considering a candidate. If you’re planning to relocate there are two ways to address this in your resume.  They are as follows: 
+
+  - Include the cities or states you’re willing to relocate to, or merely write “willing  to relocate”
+  
+  - If you have a place secured and are absolutely certain about moving, you can include your new City/State/Zip.
+
+Especially if, for example, you’re living in Chicago and thinking of relocating to San Diego, it’s best not to tip off a recruiter that you aren’t local by including your Chicago address. Your phone number and email are the primary ways employers are going to contact you.
 
 
 ## Next Steps
